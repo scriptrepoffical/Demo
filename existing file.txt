@@ -15,3 +15,4 @@ Here we are talking about diff concept
 -- Product development process launched
 -- Hiring and forming the hr, administrative and purchase dept.
 -- Admin dept purchases office stationeries, Purchase dept purchases office equipments such computers and printers
+-- We have developed an MVP for demo
