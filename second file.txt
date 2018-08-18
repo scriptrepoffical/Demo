@@ -2,3 +2,4 @@ content in second file
 
 --- Diff concept
 --  We need to hire a marketing manager to run the ad campaigns
+-- WE need to identify the sales territories

@@ -16,3 +16,4 @@ Here we are talking about diff concept
 -- Hiring and forming the hr, administrative and purchase dept.
 -- Admin dept purchases office stationeries, Purchase dept purchases office equipments such computers and printers
 -- We have developed an MVP for demo
+-- We need to identify the major market segment
